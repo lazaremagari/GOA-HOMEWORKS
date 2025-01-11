@@ -1,0 +1,23 @@
+.pdiv1{
+    width: 1000px;
+    height: 1000px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.child-divs1{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+.child-divs2{
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+}
+.child-divs3{
+    height: 500px;
+    width: 500px;
+    background-color: greenyellow;
+}

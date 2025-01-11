@@ -1,0 +1,32 @@
+#pdiv1{
+    width: 1000px;
+    height: 1000px;
+    background-color: red;
+    justify-content: center;
+    display: flex;
+}
+#pdiv1 #div1{
+    width: 500px;
+    height: 500px;
+    background-color: darkblue;
+}
+#pdiv1 #div2{
+    width: 500px;
+    height: 500px;
+    background-color: darkorange;
+}
+#pdiv1 #div3{
+    width: 500px;
+    height: 500px;
+    background-color: darkgreen;
+}
+#pdiv1 #div4{
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+}
+#pdiv1 #div5{
+    width: 500px;
+    height: 500px;
+    background-color: darkgoldenrod;
+}

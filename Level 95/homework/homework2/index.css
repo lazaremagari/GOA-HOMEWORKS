@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:wght@900&display=swap');
+body{
+    font-family: "Roboto", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+h1{
+    position: relative;
+    font-family: "Dancing Script", serif;
+    font-weight: 600px;
+    font-size: 60px;
+}
+.span1{
+    color: #00ff00;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: red;
+}
+h1 .img1{
+    width: 30px;
+    position: absolute;
+    top: -18px;
+    right: -8px;
+}
+h1 .img2{
+    width: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    right: -8px;
+    transform: rotateY(180deg);
+}

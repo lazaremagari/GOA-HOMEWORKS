@@ -1,0 +1,54 @@
+.parent-div1{
+    width: 1000px;
+    height: 1000px;
+    background-color: grey;
+    display: flex;
+}
+.divs11{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    align-items: center;
+}
+.divs12{
+    width: 500px;
+    height: 500px;
+    background-color: greenyellow;
+    justify-content: center;
+}
+.parent-div2{
+    width: 1000px;
+    height: 1000px;
+    background-color: darkorange;
+    display: flex;
+}
+.divs21{
+    width: 500px;
+    height: 500px;
+    background-color: cyan;
+    align-items: center;
+}
+.divs22{
+    width: 500px;
+    height: 500px;
+    background-color: lightgreen;
+    justify-content: center;
+}
+.parent-div3{
+    width: 1000px;
+    height: 1000px;
+    background-color: purple;
+    display: flex;
+}
+.divs31{
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+    align-items: center;
+}
+.divs32{
+    width: 500px;
+    height: 500px;
+    background-color: darkorchid;
+    justify-content: center;
+}

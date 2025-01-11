@@ -1,0 +1,32 @@
+#parent-div{
+    height: 1000px;
+    width: 1000px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+}
+#parent-div .child-div1{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+#parent-div .child-div2{
+    height: 500px;
+    width: 500px;
+    background-color: green;
+}
+#parent-div .child-div3{
+    height: 500px;
+    width: 500px;
+    background-color: greenyellow;
+}
+#parent-div .child-div4{
+    height: 500px;
+    width: 500px;
+    background-color: darkorange;
+}
+#parent-div .child-div5{
+    height: 500px;
+    width: 500px;
+    background-color: darkgreen;
+}
