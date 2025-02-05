@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    background-color: hsl(340, 6%, 91%);
+    gap: 50px;
+}
+div{
+    background-color: #ffffff;
+    padding: 10px 10px 10px 10px;
+}
+button{
+    background-color: transparent;
+    border: 0.2px solid black;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+.flex-grow{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+.flex-shrink{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+img{
+    width: 500px;
+}

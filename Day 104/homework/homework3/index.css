@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    background-color: hsl(0, 0%, 88%);
+    align-items: center;
+    gap: 30px;
+    height: 100vh;
+    font-family: sans-serif;
+}
+.CARD-ONE{
+    background-color: skyblue;
+    border-radius: 30px;
+}
+.CARD-TWO{
+    background-color: rgb(206, 206, 0);
+    border-radius: 30px;
+}
+.CARD-THREE{
+    background-color: rgb(0, 0, 179);
+    border-radius: 30px;
+}
+p{
+    color: #ffffff;
+}
+h1{
+    color: #ffffff;
+}
+button{
+    border-radius: 30px;
+    background-color: hsl(209, 53%, 24%);
+    border: none;
+    color: #ffffff;
+    margin-left: 10px;
+}
