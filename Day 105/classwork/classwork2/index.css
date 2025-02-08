@@ -1,0 +1,15 @@
+.divi1{
+    transform: scale(2) translate(20px) skew(30deg) rotate(45deg);
+}
+.divi1{
+    transform: scale(3) translate(40px) skew(40deg) rotate(-45deg);
+}
+.divi1{
+    transform: scale(4) translate(60px) skew(50deg) rotate(90deg);
+}
+.divi1{
+    transform: scale(5) translate(80px) skew(60deg) rotate(-90deg);
+}
+.divi1{
+    transform: scale(6) translate(1000px) skew(70deg) rotate(180deg);
+}

@@ -1,0 +1,34 @@
+body{
+    display: flex;
+}
+
+.div1{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    transform: translateX(-60px);
+    transform: translateY(300px);
+}
+.div2{
+    background-color: darkgray;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    transform: translateY(-10px);
+    margin-left: 800px;
+}
+.div3{
+    background-color: cyan;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    transform: translateY(300px) translateX(650px);
+}
+.div4{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    transform: translateY(780px) translateX(-300px);
+}

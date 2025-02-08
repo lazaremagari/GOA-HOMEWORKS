@@ -1,0 +1,24 @@
+.div1 button{
+    background-color: brown;
+    color: rebeccapurple;
+    transition: 1s;
+    font-size: 30px;
+}
+.div1 button:hover{
+    transform: rotate(360deg);
+    background-color: green;
+    color: rebeccapurple;
+    font-size: 30px;
+}
+.div2 button{
+    background-color: darkgreen;
+    color: darkgoldenrod;
+    transition: 1s;
+    font-size: 30px;
+}
+.div2 button:hover{
+    transform: rotate(360deg);
+    background-color: lightcoral;
+    color: black;
+    font-size: 30px;
+}

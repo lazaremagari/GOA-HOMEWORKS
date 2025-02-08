@@ -1,0 +1,20 @@
+.div1 button{
+    transform: scale(2);
+    color: white;
+    background-color: darkblue;
+}
+.div2 button{
+    transform: scale(2);
+    color: white;
+    background-color: darkcyan;
+}
+.div3 button{
+    transform: scale(2);
+    color: white;
+    background-color: darkslategray;
+}
+.div4 button{
+    transform: scale(2);
+    color: white;
+    background-color: darkred;
+}
