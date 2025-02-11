@@ -7,8 +7,7 @@ body{
     width: 150px;
     height: 150px;
     border: 2px solid;
-    transform: translateX(-60px);
-    transform: translateY(300px);
+    transform: translateX(-60px) translateY(300px);
 }
 .div2{
     background-color: darkgray;

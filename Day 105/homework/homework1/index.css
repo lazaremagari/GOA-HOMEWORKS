@@ -2,19 +2,61 @@
     transform: scale(2);
     color: white;
     background-color: darkblue;
+    transition: 0.5s;
+}
+.div1 button:hover{
+    transition: 0.5s;
+    transform: scale(3);
+}
+.div2 button:hover{
+    transition: 0.5s;
+    transform: scale(3);
+}
+.div3 button:hover{
+    transition: 0.5s;
+    transform: scale(3);
+}
+.div4 button:hover{
+    transition: 0.5s;
+    transform: scale(3);
 }
 .div2 button{
     transform: scale(2);
     color: white;
     background-color: darkcyan;
+    transition: 0.5s;
 }
 .div3 button{
     transform: scale(2);
     color: white;
     background-color: darkslategray;
+    transition: 0.5s;
 }
 .div4 button{
     transform: scale(2);
     color: white;
     background-color: darkred;
+    transition: 0.5s;
+}
+.div1 button:active{
+    transition: 0.5s;
+    transform: scale(4);
+}
+.div2 button:active{
+    transition: 0.5s;
+    transform: scale(4);
+}
+.div3 button:active{
+    transition: 0.5s;
+    transform: scale(4);
+}
+.div4 button:active{
+    transition: 0.5s;
+    transform: scale(4);
+}
+.allinone{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
 }
