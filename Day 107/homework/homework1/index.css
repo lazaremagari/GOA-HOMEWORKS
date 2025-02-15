@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-div{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: #000000;
+}
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+}
+.div1{
+    background-color: #ffffff;
+    text-align: center;
+}
+.div2{
+    background-color: #ffffff;
+    text-align: center;
+}
+.div3{
+    background-color: #ffffff;
+    text-align: center;
+}
